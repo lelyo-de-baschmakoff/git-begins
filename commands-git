@@ -1,0 +1,8 @@
+git clone (lien du repository)
+
+ - git add .(.utiliser pour tout ajouter, sinon specifier le fichier a ajouter)
+
+ - git commit -m "message"
+
+ - git push
+
