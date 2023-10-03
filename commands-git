@@ -7,3 +7,7 @@ git clone (lien du repository)
  - git push
 
 git pull
+
+git branch (nom de la branche voulu)
+
+git checkout (nom de la branche) 
